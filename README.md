@@ -9,7 +9,7 @@
 ## Requisitos:
 
 [![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/downloads/) [![3.0](https://img.shields.io/badge/3.0+-000)](https://www.python.org/downloads/)
-[![VsCode](https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visualstudiocode&logoColor=0077B5)](https://code.visualstudio.com/download) [![1.51](https://img.shields.io/badge/1.51+-000)](https://www.python.org/downloads/)
+[![VsCode](https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visualstudiocode&logoColor=0077B5)](https://code.visualstudio.com/download) [![1.51](https://img.shields.io/badge/1.51+-000)](https://code.visualstudio.com/download)
 
 
 ## Funcionalidades:
