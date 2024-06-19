@@ -58,7 +58,7 @@ def filtro_usuario(cpf, usuarios):
     return False
 
 # Função do deposito
-def deposito(saldo, extrato):
+def deposito(saldo, extrato,/,):
     deposito_valor = int(input("\n   Qual valor você que depositar? "))
     if deposito_valor > 0:
         print("\n     -- Deposito feito com sucesso! --")
@@ -69,7 +69,7 @@ def deposito(saldo, extrato):
     return saldo, extrato
 
 # Função de saque
-def saque(saldo, extrato, limite, numero_saques, limite_saques):
+def saque(*,saldo, extrato, limite, numero_saques, limite_saques,):
     saque_valor = int(input("\n   Qual valor você quer Sacar? "))
     excedeu_saldo = saque_valor > saldo
     excedeu_limite = saque_valor > limite
@@ -90,7 +90,7 @@ def saque(saldo, extrato, limite, numero_saques, limite_saques):
     return saldo, extrato, numero_saques
 
 # Função exibir o extrato
-def exibir_extrato(saldo, extrato):
+def exibir_extrato(saldo,/,*, extrato):
     rooftop = f"\n    ------ Extrato-----\n     total: {saldo}           \n     -------------------\n"
     print(rooftop + extrato)
 
@@ -124,10 +124,10 @@ def codigos():
             saldo, extrato = deposito(saldo, extrato)
             
         elif opcao == "5":
-            saldo, extrato, numero_saques = saque(saldo, extrato, limite, numero_saques, limite_saques)
+            saldo, extrato, numero_saques = saque(saldo=saldo, extrato=extrato, limite=limite, numero_saques=numero_saques, limite_saques=limite_saques)
             
         elif opcao == "6":
-            exibir_extrato(saldo, extrato)
+            exibir_extrato(saldo, extrato=extrato)
             
         elif opcao == "7":
             break
@@ -137,4 +137,4 @@ def codigos():
 
 codigos()
 
-# Funcão feita por Luiz Hilário : ) 
+# Codigo feito por Luiz Hilário : ) 
