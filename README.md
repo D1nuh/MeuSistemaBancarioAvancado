@@ -1,6 +1,6 @@
 # Sistema Bancário em Python 👨‍💻
 
-© 2024 Luiz Hilario/D1nuh. Todos os direitos reservados.
+© 2024 Luiz Hilario Todos os direitos reservados.
 
 ## Resumo:
 
@@ -33,7 +33,10 @@
 **1 -> Você deve primeiro da um fork no codigo para copiar o repositorio.**
 
 **2 -> Você deve agora ir ate o arquivo do Codigo python.**
-    MeuSistemaBancarioAvancadoDIO.py
+
+    meuSistemaBancarioAvançadoDIO.py
+
+    
     
 **3 -> Você deve ter um IDE que rode Python baixado no seu Dispositivo.**
       
