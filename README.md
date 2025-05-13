@@ -52,11 +52,11 @@
 
 Basta clicar e me seguir nas redes sociais para mais projetos e atualizações!
 
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/luiz_o.hilario)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/luiz.o.hilario)
 
 [![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D1nuh)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/luiz-o-hilário)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://ca.linkedin.com/in/luiz-o-hilario)
 
 ## Contribuição
 
